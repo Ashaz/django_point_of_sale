@@ -20,7 +20,7 @@ CORE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = "django-insecure-shfzstshi=+%g-@_=nc4_x=9xdpt1thdo=^k#($km%htb-se)("
+SECRET_KEY = "AUTH-KEY"
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
